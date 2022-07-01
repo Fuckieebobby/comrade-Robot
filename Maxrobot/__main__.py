@@ -66,7 +66,7 @@ from Maxrobot.modules.system_stats import bot_sys_stats
 
 
 PM_START_TEXT = """
-Hey there!👋  My name is Max Robot ⚡️
+Hey there!👋  My name is alone x Robot ⚡️
 I can manage your  group with lots of useful features, feel free to add me to your group
 """
 
@@ -83,7 +83,7 @@ Heya, glad to hear you want to donate !
 You can donate to the original writer's of the Base code,
 Support them [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA),
 """
-reply_sticker = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
+reply_sticker = "https://telegra.ph/file/7e314d93301869e6b609e.jpg"   
 
 BUTTONS = [
        [
@@ -92,13 +92,13 @@ BUTTONS = [
    
     [
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/MaxrobotSupport"),
+            text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/comrade_robotz"),
     ],
    
     [
         InlineKeyboardButton(text="Bot Updates", url=f"https://t.me/SL_Tech_World"),
         InlineKeyboardButton(
-            text="Rᴇᴘᴏ 📦", url=f"https://github.com/maxsupun"
+            text="🥵ғᴜᴄᴋᴇʀ🥵", url=f"https://t.me/love_u_bobby"
         ),
     ],
     [
@@ -113,7 +113,7 @@ BUTTONS = [
     ], 
 ]
 
-TEXT = """ Hey there! I am Max Robot. A next gen powerful Telegram group manager bot for manage with cool, new, smart features With Advanced AI........... 
+TEXT = """ Hey there! I am Alone x Robot. A next gen powerful Telegram group manager bot for manage with cool, new, smart features With Advanced AI........... 
 Click `Main menu` button for more information.
 Hit /help to get help commands  """
 
@@ -124,7 +124,7 @@ MENU = [
     ],
      [
         InlineKeyboardButton(
-            text="Uᴘᴅᴀᴛᴇs", url ="https://t.me/MaxRobot_updates"),
+            text="Uᴘᴅᴀᴛᴇs", url ="https://t.me/tamilchatting_team_comrade"),
     ],
     [
         InlineKeyboardButton(
